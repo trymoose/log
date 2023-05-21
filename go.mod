@@ -1,4 +1,4 @@
-module github.com/trymoose/go_util
+module github.com/trymoose/log
 
 go 1.20
 
